@@ -3,4 +3,5 @@ Uttarakhand is well-known as Devbhoomi Uttarakhand because it has two Khands (pa
 
 # UTTARAKHAND - LAND OF GODS
  
-(https://github.com/adam-p/markdown-here/raw/master/src/common/images/chandrashila.jpg "Logo Title Text 1")
+ ![Chandrashila](https://user-images.githubusercontent.com/118441700/203037166-152a8fc8-fef3-4ef6-b573-c532efe1a5d4.jpg)
+
